@@ -5,11 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-Perfeito, Arthur! Agora temos uma ideia das suas habilidades, mas para concluir o código de forma completa, precisamos organizar as informações em algumas seções.
-
-Vou montar um exemplo de estrutura para o seu currículo online com as informações que temos até agora. Para o conteúdo das seções que ainda estão em aberto (como experiência profissional, educação e contato), você pode me fornecer detalhes mais tarde, ou posso deixar espaços para você adicionar quando preferir.
-
-Aqui está um exemplo básico do código HTML com as informações que já fornecemos:
+  
 
 <!DOCTYPE html>
 <html lang="pt-br">
